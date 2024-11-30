@@ -1,9 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Musliadi
+Hi there! Welcome to Musliadi Github Repository [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ================================================================================================================================
 
-* 🌍  I'm based in Indonesia
+* 🌍 I'm based in Indonesia
+* 🔭 I'm Statistics Student at Syiah Kuala University (6th semester)
+* 🔥 Interested in Data Analyst, Data Science, Data Engineer and Machine Learning (All About Data😀)
 * ✉️  You can contact me at [musliadiyusuf2004@gmail.com](mailto:musliadiyusuf2004@gmail.com)
-* 🧠  I'm learning Statistics at Syiah Kuala University
 
 ### Skills
 
