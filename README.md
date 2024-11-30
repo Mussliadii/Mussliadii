@@ -40,9 +40,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" />
                     </picture>
                     </a></p>
-
-## 🚀 About Me
-
-🔭 Statistics Student at Syiah Kuala University (6th semester). <br>
-🔥 Interested in Data Analyst, Data Science, Data Engineer and Machine Learning (All About Data😀). <br>
-📫 You can contact via https://www.linkedin.com/in/musliadii/ or my personal email musliadiyusuf2004@gmail.com😀.
