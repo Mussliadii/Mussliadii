@@ -4,7 +4,7 @@ Hi there! Welcome to Musliadi Github Repository [](https://user-images.githubuse
 * 🌍 I'm based in Indonesia
 * 🔭 I'm Statistics Student at Syiah Kuala University (6th semester)
 * 🔥 Interested in Data Analyst, Data Science, Data Engineer and Machine Learning (All About Data😀)
-* ✉️  You can contact me at [musliadiyusuf2004@gmail.com](mailto:musliadiyusuf2004@gmail.com)
+* ✉️  You can contact me at [musliadiyusuf2004@gmail.com](mailto:musliadiyusuf2004@gmail.com) or https://www.linkedin.com/in/musliadii/ 
 
 ### Skills
 
